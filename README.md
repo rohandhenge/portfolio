@@ -1,2 +1,2 @@
-# self
-my portfolio
+# ganesh-portfolio.com
+my-portfolio
